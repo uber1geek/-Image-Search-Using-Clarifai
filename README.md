@@ -1,6 +1,8 @@
 # Image-Search-Using-Clarifai
 
-# Problem Statement: Take around 2K images of wedding parties from the internet. Build a text-based search engine using tags over those images. The tags for each image can be obtained using the Clarifai API.
+# Problem Statement:
+Take around 2K images of wedding parties from the internet. Build a text-based search engine using tags over those images. The tags for each image can be obtained using the Clarifai API.
+
 # Prerequisites :
 pip install clarifai==2.0.9
 You can get the id and secret from https://developer.clarifai.com and config them for client's use by
